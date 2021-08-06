@@ -2,6 +2,8 @@ import java.util.Random;
 
 public class CoinToss{
 	
+	//a change has been made
+	
 	public int tossACoin(){
 		
 		Random rand = new Random();
