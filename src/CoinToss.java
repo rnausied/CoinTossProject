@@ -4,6 +4,7 @@ public class CoinToss{
 	
 	//a change has been made
 	//another change
+	//a specific message is best
 	
 	public int tossACoin(){
 		
