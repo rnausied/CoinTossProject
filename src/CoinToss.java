@@ -3,6 +3,7 @@ import java.util.Random;
 public class CoinToss{
 	
 	//a change has been made
+	//another change
 	
 	public int tossACoin(){
 		
